@@ -9,5 +9,3 @@
 
 - 📹 [Youtube](https://www.youtube.com/c/QuynhOfficial?view_as=subscriber)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dongnguyenvie/)
-
- <img src="https://github-readme-stats.vercel.app/api?username=dongnguyenvie&show_icons=true">
